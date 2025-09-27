@@ -1,0 +1,13 @@
+# Byggmappar
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Loggar och temporära filer
+*.log
+
+# Användarspecifika filer
+*.user
+*.suo
